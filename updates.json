@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Added cool new features!",
+  "pub_date": "2026-01-04T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "CONTENT_OF_SIG_FILE",
+      "url": "https://github.com/<USER>/<REPO>/releases/download/v0.2.0/app.msi.zip"
+    },
+  }
+}
