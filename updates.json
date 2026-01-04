@@ -4,8 +4,8 @@
   "pub_date": "2026-01-04T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTFYbU9FMWJRYkxoR3FxaWs3QUZMdWpYTk5MczZxNHZsdHNzNENocTFuMFU4d0ZKYVFFVkJKMkIwajZ6dnB3U25OMHd3djJpTUt0UDVBa2VxaEgrSXg0NE5xNUJpM3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTQ0NTEwCWZpbGU6VHJhY2t2aWV3XzAuMS4xX3g2NF9lbi1VUy5tc2kKZmhkMitoaDZKdkZSQitnSEFsdGN2WDVGeHZkanBWU3pXMnhKK0ZVa2dPZi9UcnF4djlRVC9oajZQL3YrMXdSMFE3NGFaMnFPUUZ4ZnB0K0dSZWhoRGc9PQo=",
-      "url": "https://github.com/martintxortiz/TrackviewUpdates/releases/download/prod/Trackview_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTFYbU9FMWJRYk9vbG4wNExSUEFpek94K2ZoaDcwQjQySXRCOENZeVJFdWZzUG1lVUFVZ0wxQkFqZjZpOUZpSVVpcjVSc3R0dXYxWUdpNVZmTytGb3VHU0w4Q3dyRWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTQ1NjE3CWZpbGU6VHJhY2t2aWV3XzAuMS4yX3g2NF9lbi1VUy5tc2kKU0huRy9xV00vbGtFRXN2YlBPRmFqK2dyTFJCcnh4M3QyUUNYOGtBUzFYdHZnMVRvUE1TeFMxYkFsdDhxZDlIZ1lVbUFtYjVXQkE4ZkNCQ0p3ZVQrQ1E9PQo=",
+      "url": "https://github.com/martintxortiz/TrackviewUpdates/releases/download/v0.1.2/Trackview_0.1.2_x64_en-US.msi"
     } 
   }
 }
