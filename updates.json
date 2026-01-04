@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
+  "version": "0.1.1",
   "notes": "Added cool new features!",
   "pub_date": "2026-01-04T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "CONTENT_OF_SIG_FILE",
-      "url": "https://github.com/<USER>/<REPO>/releases/download/v0.2.0/app.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTFYbU9FMWJRYk1CcDhXWHBpYkludzFaMjMwN3JsVWhYVEZCL2ozUWNXU2EzR3ZtUjgzM2UrU0NLNHFXdGozL1RGRjBoQzB2VDNyQnJhK3AvNTBqbit2a1dqbCtkalF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTQxNTI4CWZpbGU6VHJhY2t2aWV3XzAuMS4xX3g2NF9lbi1VUy5tc2kKVE1zMWp1cTZyYk9vbEhyUWJ0UUlxck5raU1pSUROZkJFeURNbjBLaWJjS3ZOQzdVaU14T1ZsTFB1cW85NGZyMElJenZHaVpTL1F2QVQ5TmdudW50Q3c9PQo=",
+      "url": "https://github.com/martintxortiz/TrackviewUpdates/releases/download/prod/Trackview_0.1.0_x64-setup.exe"
     },
   }
 }
